@@ -7,7 +7,13 @@ This project demonstrates an ELT (Extract, Load, Transform) workflow using Airfl
 3. Airflow for orchestration
 
 ***## Project Structure***
+
+
 ![](pics/7.png)
+
+
+
+
 
 
 - **airflow/dags/elt_and_dbt_dag.py**: Defines the Airflow DAG for the ELT workflow.
