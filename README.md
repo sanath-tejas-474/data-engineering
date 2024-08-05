@@ -106,7 +106,7 @@ The `docker-compose.yml` file defines the services for the project:
 
 4. **Docker Containers**
 
-    ![Docker Containers]pics/(4.png)
+    ![Docker Containers](pics/4.png)
 
 ***## Conclusion***
 
