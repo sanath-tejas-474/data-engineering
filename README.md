@@ -94,19 +94,19 @@ The `docker-compose.yml` file defines the services for the project:
 
 1. **Airflow DAG View**
 
-    ![Airflow DAG View](1.png)
+    ![Airflow DAG View](pics/1.png)
 
 2. **Airflow Task Logs**
 
-    ![Airflow Task Logs](2.png)
+    ![Airflow Task Logs](pics/2.png)
 
 3. **PostgreSQL Databases**
 
-    ![PostgreSQL Databases](3.png)
+    ![PostgreSQL Databases](pics/3.png)
 
 4. **Docker Containers**
 
-    ![Docker Containers](4.png)
+    ![Docker Containers]pics/(4.png)
 
 ***## Conclusion***
 
