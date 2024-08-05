@@ -7,17 +7,7 @@ This project demonstrates an ELT (Extract, Load, Transform) workflow using Airfl
 3. Airflow for orchestration
 
 ***## Project Structure***
-.
-├── airflow
-│ └── dags
-│ └── elt_and_dbt_dag.py
-├── elt
-│ ├── Dockerfile
-│ ├── elt_script.py
-├── .dbt
-│ └── profiles.yml
-├── docker-compose.yml
-└── README.md
+![](7.png)
 
 
 - **airflow/dags/elt_and_dbt_dag.py**: Defines the Airflow DAG for the ELT workflow.
